@@ -1,4 +1,4 @@
-# Name: Jonathan Noriega, Date: 09/01/2026, Purpose: Test Correlation Analyis
+# Name: Jonathan Noriega, Date: 09/01/2026, Purpose: Test Correlation Analysis
 
 # Load Package ggpubr
 library("ggpubr")
